@@ -21,6 +21,12 @@ public class CirclesDemoApp {
 			double bound = 5.0;
 			StdDraw.setXscale(-bound, bound);
 			StdDraw.setYscale(-bound, bound);
+
+		
+		
+
+
+
 			StdDraw.enableDoubleBuffering();
 			String title = CirclesDemoApp.class.getSimpleName();
 			final double radius = 3.1;
